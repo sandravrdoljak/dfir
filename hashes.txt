@@ -92,3 +92,5 @@ d58a6e30b08ce7f4f64719cf3e167b6fdbbdd59d2653e812b0965b4c8fbdcef2  sdb3/install-l
 d6b11ed7d7dac5c48ffd6b15974c3543ac1c01b725c74eaa216d9de8c0c8fadf  sdb3/install-logs-2024-03-30.0/log/mail.log
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  sdb3/install-logs-2024-03-30.0/log/unattended-upgrades/unattended-upgrades-shutdown.log
 cd40fb51a600d7e5607ee89c6c008e1a860f01ded57d66f86310be784c7f941f  sdb3/macbookimage2.info
+cb225ec636f2836673612f48d43d65bd9497d0008d983e898f66ca548992eab3  macOS_image.zip
+
